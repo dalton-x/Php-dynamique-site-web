@@ -42,7 +42,7 @@
                 <div class="row">
                   <!-- colonne de gauche -->
                   <div class="col-sm-6">
-                    <h1><strong>voir un item</strong></h1>
+                    <h1><strong>Voir un item</strong></h1>
                     <br>
                     <form>
                       <div class="form-group">
